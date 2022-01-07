@@ -85,7 +85,7 @@ h3,
 h4 {
   letter-spacing: var(--spacing);
   text-transform: capitalize;
-  line-height: 1.25;
+  line-height: 1.2;
   margin-bottom: 0.75rem;
   font-family: var(--ff-primary);
 }
@@ -125,7 +125,7 @@ p {
   h2,
   h3,
   h4 {
-    line-height: 1;
+    line-height: 1.2;
   }
 }
 /*  global classes */
@@ -138,7 +138,7 @@ p {
 .section-center {
   width: 90vw;
   margin: 0 auto;
-  max-width: 1170px;
+  max-width: 1160px;
 }
 @media screen and (min-width: 992px) {
   .section-center {
