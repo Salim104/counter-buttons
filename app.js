@@ -3,6 +3,7 @@
 
  // select value and buttons
  const btn = document.querySelectorAll('.btn')
+ 
  const value = document.querySelector('#value')
  
 btn.forEach(function(na){
